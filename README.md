@@ -57,10 +57,9 @@ License: **CC BY 4.0**
 ---
 
 ## Keywords
-Electron Entanglement, Continuum Geometry, Monistic Continuum Model, Nonlocal Operator, Correlation Kernel, Spectral Modes, Vortex Modes, Continuum Coherence, Non‑separable Kernel, Mixed Eigenfunctions, Coupling Geometry, Emergent Quantum States, Continuum Field, LambdaOmega, Nonlocal Dynamics, Geometric Entanglement, Kernel-based Physics, Spectral Projection, Two-electron Entanglement
-
+continuum-model, monistic-continuum-model, wmoos, Moosbrugger Walter, Wels, AT, Physik, Kosmos, Universum, Ontologie, Theorie, Preprints, continuum-physics, projection-vector-theory, planck-vortex-theory, pvt, mcm, operator-ontology, geometric-ontology, rotational-dynamics, pre-spatial-medium, continuum-rotation, projection-mechanisms, unified-physical-correspondence, dark-matter, electron-entanglement, black-holes, theoretical-physics, mathematical-physics, ontology-framework, continuum-dynamics, Klassische Mechanik, Elektromagnetismus, Thermodynamik, Statistische Mechanik, Spezielle Relativitätstheorie, Allgemeine Relativitätstheorie, Quantenmechanik, Standardmodell der Teilchenphysik, Kosmologie, Stringtheorie, Quantengravitation
 ---
 
 ## Author
 **Walter Moosbrugger**  
-Independent Researcher, Wels  
+Independent Researcher, Wels AT 
